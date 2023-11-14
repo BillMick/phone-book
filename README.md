@@ -10,10 +10,13 @@ Then, we should be able to create, read, update and delete (CRUD) contacts.
 Ensure to have g++ installed. Then, run the code « g++ Menu.cpp Repertoire.cpp » in a terminal opened in
 the cloned directory.
 
+# value
 This code can be helpful to appreciate basic C++ using in a common use case, with file management.
 It is also implemented a basic error management when the prompt entered by the user is not in the expected list.
-For more details, you can either refer to Project_Report.pdf file or contact us by email. You can also write for suggestions.
 Enjoy it.
+
+# for more details
+For more details, you can either refer to « Project_Report.pdf » file or contact us by email. You can also write for suggestions.
 
 # how to contact us 
 gmail : ahouandjinoubill@gmail.com
