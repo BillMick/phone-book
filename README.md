@@ -3,7 +3,7 @@ Basic phone book with C++.
 
 # description
 This code has been written since at least two years now in a context of school evaluation.
-The task was to write a C++ program that permit to manage a phone book as we do with our cell phones.
+The task was to write a C++ program that would permit to manage a phone book as we do with our cell phones.
 Then, we should be able to create, read, update and delete (CRUD) contacts.
 
 # before run program
