@@ -7,13 +7,14 @@ The task was to write a C++ program that permit to manage a phone book as we do 
 Then, we should be able to create, read, update and delete (CRUD) contacts.
 
 # before run program
-Ensure to have g++ install. Then, run the code « g++ Menu.cpp Repertoire.cpp » in a terminal opened in
+Ensure to have g++ installed. Then, run the code « g++ Menu.cpp Repertoire.cpp » in a terminal opened in
 the cloned directory.
 
 This code can be helpful to appreciate basic C++ using in a common use case, with file management.
 It is also implemented a basic error management when the prompt entered by the user is not in the expected list.
+For more details, you can either refer to Project_Report.pdf file or contact us by email. You can also write for suggestions.
 Enjoy it.
 
-# how to contact me 
+# how to contact us 
 gmail : ahouandjinoubill@gmail.com
 yahoo : ahouandjinoubill@yahoo.com
