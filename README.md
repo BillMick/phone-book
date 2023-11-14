@@ -16,7 +16,7 @@ It is also implemented a basic error management when the prompt entered by the u
 Enjoy it.
 
 # for more details
-For more details, you can either refer to « Project_Report.pdf » file or contact us by email. You can also write for suggestions.
+For more details, you can either refer to « Project_Report.pdf » file or contact us by email. Feel free for suggestions.
 
 # how to contact us 
 gmail : ahouandjinoubill@gmail.com
